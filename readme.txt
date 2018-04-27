@@ -5,3 +5,4 @@ git tracks changes of files.
 creating a new branch is quick and simple.
 git branch manage.
 git fetch.
+git pull.
